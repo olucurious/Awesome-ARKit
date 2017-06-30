@@ -36,4 +36,4 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 
 # Contributing
 
-Your contributions are always welcome! To add, remove, or change things on the list: Submit a pull request.
+Your contributions are always welcome! To add, remove, or change things on the list: Submit a pull request. See `contribution.md` for guidelines.
