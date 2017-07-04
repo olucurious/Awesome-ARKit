@@ -18,6 +18,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Apple ARKit example app](https://github.com/markdaws/arkit-by-example) - Apple ARKit example app
 * [ARKit-FloorIsLava](https://github.com/arirawr/ARKit-FloorIsLava) - Basic ARKit example that detects planes and makes them lava.
 * [ARKit-line-drawing](https://github.com/lapfelix/ARKit-line-drawing) - Changed the default ARKit project to draw a line where the camera is positioned
+* [ARKit-tictactoe](https://github.com/bjarnel/arkit-tictactoe) - ARKit based tic-tac-toe with a decent AI opponent
 * [ARShooter](https://github.com/farice/ARShooter) - A basic Augmented Reality shooter made with ARKit in Swift (iOS 11)
 * [Boxify](https://github.com/alunbestor/Boxify) - An ARKit box-drawing demo
 * [iOS11 ARKit (3D of Wolf 🐺 狼)](https://github.com/yx79/ARKit-Wolf) - iOS11 ARKit (3D of Wolf 🐺 狼)
