@@ -36,7 +36,8 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 # Resources
 
 * [Official ARKit Documentation](https://developer.apple.com/documentation/arkit)
-
+* [ARKit Weekly](http://www.arkitweekly.com)
+* [Made With ARKit](http://www.madewitharkit.com)
 
 # Contributing
 
