@@ -15,6 +15,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 # Projects
 
 * [ARBrush](https://github.com/laanlabs/ARBrush) - Quick demo of 3d drawing in ARKit using metal + SceneKit
+* [ARuler](https://github.com/duzexu/ARuler) - ARKit demo ruler app
 * [Apple ARKit example app](https://github.com/markdaws/arkit-by-example) - Apple ARKit example app
 * [ARKit-FloorIsLava](https://github.com/arirawr/ARKit-FloorIsLava) - Basic ARKit example that detects planes and makes them lava.
 * [ARKit-line-drawing](https://github.com/lapfelix/ARKit-line-drawing) - Changed the default ARKit project to draw a line where the camera is positioned
