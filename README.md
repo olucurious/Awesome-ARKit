@@ -27,6 +27,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples) - Examples of new iOS 11 APIs
 * [react-native-arkit](https://github.com/HippoAR/react-native-arkit) - React Native binding for iOS ARKit
 * [MeasureARKit](https://github.com/DroidsOnRoids/MeasureARKit) - Simple app measuring real objects with ARKit (tutorial in articles)
+* [ARKitGameSpriteKit](https://github.com/eh3rrera/ARKitGameSpriteKit) - A game inspired by Pokemon Go build with ARKit and SpriteKit
 
 # Articles
 
