@@ -28,12 +28,14 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [react-native-arkit](https://github.com/HippoAR/react-native-arkit) - React Native binding for iOS ARKit
 * [MeasureARKit](https://github.com/DroidsOnRoids/MeasureARKit) - Simple app measuring real objects with ARKit (tutorial in articles)
 * [ARKitGameSpriteKit](https://github.com/eh3rrera/ARKitGameSpriteKit) - A game inspired by Pokemon Go build with ARKit and SpriteKit
+* [MeasureThings](https://github.com/whitesmith/MeasureThings) - ARKit introduction: measure the distance between two points
 
 # Articles
 
 * [Apple ARKit by Example](https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59)
 * [Getting started with ARKit](https://medium.com/@hilmarbirgir/getting-started-with-arkit-fd44fa4eecec)
 * [How to Create a Measuring App With ARKit](https://www.thedroidsonroids.com/blog/how-to-create-a-measuring-app-with-arkit-in-ios-11)
+* [ARKit introduction](https://www.whitesmith.co/blog/arkit-introduction/)
 
 # Resources
 
