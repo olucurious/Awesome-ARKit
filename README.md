@@ -30,6 +30,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKitGameSpriteKit](https://github.com/eh3rrera/ARKitGameSpriteKit) - A game inspired by Pokemon Go build with ARKit and SpriteKit
 * [MeasureThings](https://github.com/whitesmith/MeasureThings) - ARKit introduction: measure the distance between two points
 * [ARCharts](https://github.com/Boris-Em/ARCharts) - 3D charts in AR
+* [ARSolarPlay](https://github.com/miliPolo/ARSolarPlay) - Solar system in AR
 
 # Articles
 
