@@ -39,6 +39,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Getting started with ARKit](https://medium.com/@hilmarbirgir/getting-started-with-arkit-fd44fa4eecec)
 * [How to Create a Measuring App With ARKit](https://www.thedroidsonroids.com/blog/how-to-create-a-measuring-app-with-arkit-in-ios-11)
 * [ARKit introduction](https://www.whitesmith.co/blog/arkit-introduction/)
+* [Building an AR game with ARKit and Spritekit](https://blog.pusher.com/building-ar-game-arkit-spritekit/)
 
 # Resources
 
