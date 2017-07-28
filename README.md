@@ -33,6 +33,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [3DSnakeAR](https://github.com/PGSSoft/3DSnakeAR) - Snake 3D game 🐍 
 * [ARSolarPlay](https://github.com/miliPolo/ARSolarPlay) - Solar system in AR
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data
+* [ARKitPlusVR](https://github.com/WorkerAmo/ARKitPlusVR) - Make VR with SceneKit & ARKit
 
 # Articles
 
