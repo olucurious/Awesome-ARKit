@@ -34,6 +34,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARSolarPlay](https://github.com/miliPolo/ARSolarPlay) - Solar system in AR
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data
 * [ARKitPlusVR](https://github.com/WorkerAmo/ARKitPlusVR) - Make VR with SceneKit & ARKit
+* [ARKitDemoPlayground](https://github.com/mhanlon/ARKitDemoPlayground) - A demo of the ARKit Demo project from Xcode 9 as a Swift Playground
 
 # Articles
 
@@ -51,3 +52,5 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 # Contributing
 
 Your contributions are always welcome! To add, remove, or change things on the list: Submit a pull request. See `contribution.md` for guidelines.
+
+
