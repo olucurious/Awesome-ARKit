@@ -35,6 +35,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data
 * [ARKitPlusVR](https://github.com/WorkerAmo/ARKitPlusVR) - Make VR with SceneKit & ARKit
 * [ARKitDemoPlayground](https://github.com/mhanlon/ARKitDemoPlayground) - A demo of the ARKit Demo project from Xcode 9 as a Swift Playground
+* [ARGitHubCommits](https://github.com/songkuixi/ARGitHubCommits) - Show your GitHub commit records in 3D with ARKit and SceneKit
 
 # Articles
 
