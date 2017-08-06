@@ -47,6 +47,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKit + Vision: An intriguing combination](https://dev.to/osterbergjordan/arkit--vision-an-intriguing-combination)
 * [Using ARKit with Metal](http://metalkit.org/2017/07/29/using-arkit-with-metal.html)
 * [Augmented Reality With ARKit For IOS](https://digitalleaves.com/blog/2017/08/augmented-reality-arkit/)
+* [Bike ride with ARKit: How I built it](https://blog.mapbox.com/bike-ride-with-arkit-mapbox-unity-9a66f91d91b2)
 
 # Resources
 
