@@ -37,6 +37,8 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKitDemoPlayground](https://github.com/mhanlon/ARKitDemoPlayground) - A demo of the ARKit Demo project from Xcode 9 as a Swift Playground
 * [ARGitHubCommits](https://github.com/songkuixi/ARGitHubCommits) - Show your GitHub commit records in 3D with ARKit and SceneKit
 * [Virtual Objects](https://github.com/ignacio-chiazzo/ARKit) - Placing Virtual Objects in Augmented Reality
+* [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR.
+* [ARPaint](https://github.com/oabdelkarim/ARPaint) - Draw with bare fingers in the air using ARKit
 
 # Articles
 
