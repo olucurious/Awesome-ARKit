@@ -40,6 +40,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [CoreML-in-ARKit](https://github.com/hanleyweng/CoreML-in-ARKit) - Simple project to detect objects and display 3D labels above them in AR.
 * [ARPaint](https://github.com/oabdelkarim/ARPaint) - Draw with bare fingers in the air using ARKit
 * [arkit-smb-homage](https://github.com/bjarnel/arkit-smb-homage) - This project is a homage to Super Mario Bros.
+* [ARShellGame](https://github.com/handsomecode/arkit-shell-game) - Augmented Reality Shell game made with ARKit and SceneKit.
 
 # Articles
 
