@@ -7,7 +7,7 @@ A curated list of awesome ARKit projects and resources. Feel free to contribute!
 ARKit is a new framework that allows you to easily create unparalleled augmented reality experiences for iPhone and iPad. By blending digital objects and information with the environment around you, ARKit takes apps beyond the screen, freeing them to interact with the real world in entirely new ways.
 
 - [Projects](#projects)
-- [Articles](#articles)
+- [Tutorials](#tutorials)
 - [Resources](#resources)
 
 - - -
@@ -26,7 +26,6 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Boxify](https://github.com/alunbestor/Boxify) - An ARKit box-drawing demo
 * [iOS11 ARKit (3D of Wolf 🐺 狼)](https://github.com/yx79/ARKit-Wolf) - iOS11 ARKit (3D of Wolf 🐺 狼)
 * [iOS-11-by-Examples](https://github.com/artemnovichkov/iOS-11-by-Examples) - Examples of new iOS 11 APIs
-* [react-native-arkit](https://github.com/HippoAR/react-native-arkit) - React Native binding for iOS ARKit
 * [MeasureARKit](https://github.com/DroidsOnRoids/MeasureARKit) - Simple app measuring real objects with ARKit (tutorial in articles)
 * [ARKitGameSpriteKit](https://github.com/eh3rrera/ARKitGameSpriteKit) - A game inspired by Pokemon Go build with ARKit and SpriteKit
 * [MeasureThings](https://github.com/whitesmith/MeasureThings) - ARKit introduction: measure the distance between two points
@@ -44,7 +43,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARShellGame](https://github.com/handsomecode/arkit-shell-game) - Augmented Reality Shell game made with ARKit and SceneKit.
 * [Occlusion](https://github.com/bjarnel/arkit-occlusion) - "Tracking" vertical planes and occluding virtual objects with real world geometry.
 
-# Articles
+# Tutorials
 
 * [Apple ARKit by Example](https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59)
 * [Getting started with ARKit](https://medium.com/@hilmarbirgir/getting-started-with-arkit-fd44fa4eecec)
@@ -61,6 +60,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 
 * [Official ARKit Documentation](https://developer.apple.com/documentation/arkit)
 * [Made With ARKit](http://www.madewitharkit.com)
+* [React Native Binding](https://github.com/HippoAR/react-native-arkit) - React Native binding for ARKit
 
 # Contributing
 
