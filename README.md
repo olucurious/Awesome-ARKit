@@ -42,7 +42,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [arkit-smb-homage](https://github.com/bjarnel/arkit-smb-homage) - This project is a homage to Super Mario Bros.
 * [ARShellGame](https://github.com/handsomecode/arkit-shell-game) - Augmented Reality Shell game made with ARKit and SceneKit.
 * [Occlusion](https://github.com/bjarnel/arkit-occlusion) - "Tracking" vertical planes and occluding virtual objects with real world geometry.
-* [ARKit-Sample-ObjC](https://github.com/rajubd49/ARKit-Sample-ObjC) - Sample ARKit Objtive-C implementation with features of Add, Remove, Scale, Move single or multiple objects with plane detection.
+* [ARKit-Sample-ObjC](https://github.com/rajubd49/ARKit-Sample-ObjC) - Sample ARKit Objective-C implementation with features of Add, Remove, Scale, Move single or multiple objects along with plane detection.
 
 # Tutorials
 
