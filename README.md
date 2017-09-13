@@ -61,6 +61,8 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Augmented Reality With ARKit For IOS](https://digitalleaves.com/blog/2017/08/augmented-reality-arkit/)
 * [Bike ride with ARKit: How I built it](https://blog.mapbox.com/bike-ride-with-arkit-mapbox-unity-9a66f91d91b2)
 * [iOS ARKit Tutorial: Drawing in the Air with Bare Fingers](https://www.toptal.com/swift/ios-arkit-tutorial-drawing-in-air-with-fingers)
+*[ARKit and CoreLocation: Part One -
+Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thousand-apps/arkit-and-corelocation-part-one-fc7cb2fa0150)
 
 # Resources
 
