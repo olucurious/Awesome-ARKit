@@ -10,6 +10,7 @@ Ensure your pull request adheres to the following guidelines:
 - If you submit a project that is similar to an existing project in the list, argument how it's better.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Suggested packages should be tested and documented.
+- If you're submitting an app, make sure you submit the url to the english version and provide an english description
 - Make an individual pull request for each suggestion.
 - Use the following format: `[package](link) - Description.`
 - Additions should be added to the bottom of the relevant category.
