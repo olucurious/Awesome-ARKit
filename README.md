@@ -49,6 +49,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [FaceRecognition-in-ARKit](https://github.com/NovaTecConsulting/FaceRecognition-in-ARKit) - Detects faces using the Vision-API and runs the extracted face through a CoreML-model to identiy the specific persons.
 * [pARtfolio](https://github.com/rosberry/pARtfolio) - Rosberry Portfolio app made with Apple ARKit.
 * [SceneKitVideoRecorder](https://github.com/svtek/SceneKitVideoRecorder) - Video and Audio recorder for ARKit projects.
+* [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) - A collection of ARKit samples, including a custom rendering sample using Metal.
 
 # AppStore
 
