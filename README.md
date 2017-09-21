@@ -50,10 +50,24 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [pARtfolio](https://github.com/rosberry/pARtfolio) - Rosberry Portfolio app made with Apple ARKit.
 * [SceneKitVideoRecorder](https://github.com/svtek/SceneKitVideoRecorder) - Video and Audio recorder for ARKit projects.
 * [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) - A collection of ARKit samples, including a custom rendering sample using Metal.
+* [Measure](https://github.com/levantAJ/Measure) - Using ARKit to make calculate distance of real world objects
 
 # AppStore
 
-* 
+* [Sky Guide AR](https://itunes.apple.com/us/app/sky-guide-view-stars-night-or-day/id576588894?mt=8) - A star app has never been more beautiful and easy to use.
+* [Night Sky](https://itunes.apple.com/app/the-night-sky/id475772902?mt=8) - Night Sky is a powerful augmented reality personal planetarium.
+* [AR Dragon](https://itunes.apple.com/us/app/ar-dragon/id1270046606?mt=8) - Augmented Reality Virtual Pet Simulator!
+* [MyTools · My AR Light & Ruler](https://itunes.apple.com/us/app/%E6%88%91%E7%9A%84%E6%89%8B%E7%94%B5%E5%92%8C%E5%B0%BA%E5%AD%90-my-light-ruler/id557839389?mt=8) - 「My Ruler and Light」is a useful and delicately designed toolbox App for you.
+* [Thomas & Friends Minis](https://itunes.apple.com/us/app/thomas-friends-minis/id1216643761?mt=8) - Create your very own train set piece by piece and bring it to life with Thomas and all his friends.
+* [Stack AR](https://itunes.apple.com/app/stack-ar/id1269638287) - Stack up the blocks as high as you can!
+* [Euclidean Lands](https://itunes.apple.com/us/app/euclidean-lands/id1181212221?mt=8) - A beautiful puzzle game with unique mechanics that blends isometric architecture and turn-based movement into an exciting medieval game world.
+* [Homebrew Club](https://itunes.apple.com/us/app/homebrew-club/id1278615967?mt=8) - In augmented reality, you can always place the computer on your desk, floor or even bed. Then the computer can be observed in any orientations and distances. Anyway, this is just like a real computer!
+* [Stik AR](https://itunes.apple.com/app/stik/id1072055511) - Provide stiker camera.
+* [Miaow: Your Exclusive AR Pet](https://itunes.apple.com/us/app/miaow-your-exclusive-ar-pet/id1278831491?mt=8) - Play Miaow AR Cat, the fun free cute virtual pet live in real environment, the best playmate for everyone, especially for kids!
+* [Zombie Gunship Revenant AR](https://itunes.apple.com/us/app/zombie-gunship-revenant-ar/id1254976492?mt=8) - ZOMBIE GUNSHIP REVENANT is the ultimate augmented reality zombie shooter where you take control of a heavily-armed helicopter gunship and obliterate zombies from the sky.
+* [Human Anatomy Atlas 2018](https://itunes.apple.com/app/id1117998129) - Human Anatomy Atlas 2018 Edition is the go-to 3D anatomy reference app for healthcare professionals, students, and professors.
+* [Conduct AR!](https://itunes.apple.com/us/app/conduct-ar/id1256506674?mt=8&ign-mpt=uo%3D4) - Conduct AR! is an epic augmented reality game of explosive railway action.
+* [AirMeasure AR](https://itunes.apple.com/app/apple-store/id1251282152?mt=8) - This app lets you place virtual objects in augmented reality.
 
 # Tutorials
 
