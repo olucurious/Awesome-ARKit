@@ -62,7 +62,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Stack AR](https://itunes.apple.com/app/stack-ar/id1269638287) - Stack up the blocks as high as you can!
 * [Euclidean Lands](https://itunes.apple.com/us/app/euclidean-lands/id1181212221?mt=8) - A beautiful puzzle game with unique mechanics that blends isometric architecture and turn-based movement into an exciting medieval game world.
 * [Homebrew Club](https://itunes.apple.com/us/app/homebrew-club/id1278615967?mt=8) - In augmented reality, you can always place the computer on your desk, floor or even bed. Then the computer can be observed in any orientations and distances. Anyway, this is just like a real computer!
-* [Stik AR](https://itunes.apple.com/app/stik/id1072055511) - People can stick stickers at where iPhone at in real space.
+* [Stik AR](https://itunes.apple.com/us/app/stik-ar/id1072055511?mt=8) - People can stick stickers at where iPhone at in real space.
 * [Miaow: Your Exclusive AR Pet](https://itunes.apple.com/us/app/miaow-your-exclusive-ar-pet/id1278831491?mt=8) - Play Miaow AR Cat, the fun free cute virtual pet live in real environment, the best playmate for everyone, especially for kids!
 * [Zombie Gunship Revenant AR](https://itunes.apple.com/us/app/zombie-gunship-revenant-ar/id1254976492?mt=8) - ZOMBIE GUNSHIP REVENANT is the ultimate augmented reality zombie shooter where you take control of a heavily-armed helicopter gunship and obliterate zombies from the sky.
 * [Human Anatomy Atlas 2018](https://itunes.apple.com/app/id1117998129) - Human Anatomy Atlas 2018 Edition is the go-to 3D anatomy reference app for healthcare professionals, students, and professors.
