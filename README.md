@@ -48,6 +48,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [FaceRecognition-in-ARKit](https://github.com/NovaTecConsulting/FaceRecognition-in-ARKit) - Detects faces using the Vision-API and runs the extracted face through a CoreML-model to identiy the specific persons.
 * [pARtfolio](https://github.com/rosberry/pARtfolio) - Rosberry Portfolio app made with Apple ARKit.
 * [SceneKitVideoRecorder](https://github.com/svtek/SceneKitVideoRecorder) - Video and Audio recorder for ARKit projects.
+* [ARKit Navigation Demo](https://github.com/chriswebb09/ARKitNavigationDemo)
 
 # Tutorials
 
@@ -63,6 +64,8 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [iOS ARKit Tutorial: Drawing in the Air with Bare Fingers](https://www.toptal.com/swift/ios-arkit-tutorial-drawing-in-air-with-fingers)
 * [ARKit and CoreLocation: Part One -
 Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thousand-apps/arkit-and-corelocation-part-one-fc7cb2fa0150)
+* [ARKit and CoreLocation: Part Two -
+Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thousand-apps/arkit-and-corelocation-part-two-7b045fb1d7a1)
 
 # Resources
 
