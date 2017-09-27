@@ -53,6 +53,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKit Navigation Demo](https://github.com/chriswebb09/ARKitNavigationDemo)
 * [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) - A collection of ARKit samples, including a custom rendering sample using Metal.
 * [Measure](https://github.com/levantAJ/Measure) - Using ARKit to make calculate distance of real world objects
+* [Ruler](https://github.com/TBXark/Ruler) - An AR ruler app can measure length & area 
 
 # AppStore
 
@@ -101,5 +102,4 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 # Contributing
 
 Your contributions are always welcome! To add, remove, or change things on the list: Submit a pull request. See `contribution.md` for guidelines.
-
 
