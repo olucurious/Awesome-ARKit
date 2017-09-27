@@ -75,6 +75,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [IKEA Place](https://itunes.apple.com/us/app/ikea-place/id1279244498?mt=8) - IKEA Place lets you virtually 'place' IKEA products in your space.
 * [CARROT Weather](https://itunes.apple.com/app/id961390574) - CARROT Weather is a crazy-powerful weather app that delivers hilariously twisted forecasts.
 * [Holo](https://itunes.apple.com/us/app/holo/id1194175772?mt=8) - Holo lets you add holograms of real people and animals into your world and take photos & videos to share with friends. 
+* [HANI](https://itunes.apple.com/app/id1227361094) - HANI - video camera & editor with awesome AR Brush, 3D rainbow.
 
 # Tutorials
 
