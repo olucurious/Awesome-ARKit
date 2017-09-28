@@ -77,6 +77,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Holo](https://itunes.apple.com/us/app/holo/id1194175772?mt=8) - Holo lets you add holograms of real people and animals into your world and take photos & videos to share with friends. 
 * [HANI](https://itunes.apple.com/app/id1227361094) - HANI - video camera & editor with awesome AR Brush, 3D rainbow.
 * [Surreal](https://itunes.apple.com/app/id1286981298) - People can customize any surrounding environment into their wildest dreams: expressing themselves in a new mixed reality space, as well as sharing with family, friends and other social outlets.
+* [Wallr](https://itunes.apple.com/us/app/wallr/id1278372745) - Add pictures from your phone to the wall and pan and scale to find the best size and position.
 
 # Tutorials
 
