@@ -54,6 +54,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) - A collection of ARKit samples, including a custom rendering sample using Metal.
 * [Measure](https://github.com/levantAJ/Measure) - Using ARKit to make calculate distance of real world objects
 * [Ruler](https://github.com/TBXark/Ruler) - An AR ruler app can measure length & area 
+* [Twilio Video chat w/ AR](https://github.com/twilio/video-quickstart-swift/tree/master/ARKitExample) - Twilio Video chat with AR in scene
 
 # AppStore
 
