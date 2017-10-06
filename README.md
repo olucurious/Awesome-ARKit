@@ -79,6 +79,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [HANI](https://itunes.apple.com/app/id1227361094) - HANI - video camera & editor with awesome AR Brush, 3D rainbow.
 * [Surreal](https://itunes.apple.com/app/id1286981298) - People can customize any surrounding environment into their wildest dreams: expressing themselves in a new mixed reality space, as well as sharing with family, friends and other social outlets.
 * [Wallr](https://itunes.apple.com/us/app/wallr/id1278372745) - Add pictures from your phone to the wall and pan and scale to find the best size and position.
+* [Magic Sudoku](https://itunes.apple.com/us/app/magic-sudoku/id1286979959) - Solve Sudoku puzzles in realtime (uses CoreML, Vision, and ARKit to create a seamless experience).
 
 # Tutorials
 
