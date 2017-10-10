@@ -101,7 +101,7 @@ Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thous
 Navigation With Linear Algebra and Trig](https://medium.com/journey-of-one-thousand-apps/arkit-and-corelocation-part-two-7b045fb1d7a1)
 * [ARKit Adventures
 Making A Remote Control Drone](https://medium.com/journey-of-one-thousand-apps/aarkit-adventures-697dfbe7779e)
-
+* [Building an AR app with ARKit and Scenekit](https://blog.pusher.com/building-an-ar-app-with-arkit-and-scenekit/)
 
 # Resources
 
