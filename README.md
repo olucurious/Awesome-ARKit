@@ -56,7 +56,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Ruler](https://github.com/TBXark/Ruler) - An AR ruler app can measure length & area 
 * [Twilio Video chat w/ AR](https://github.com/twilio/video-quickstart-swift/tree/master/ARKitExample) - Twilio Video chat with AR in scene
 * [ARPlayer](https://github.com/MaximAlien/ARPlayer) - Playback videos using ARKit and AVFoundation📺
-
+* [ARVoxelKit](https://github.com/VoxxxelAR/ARVoxelKit) - Lightweight Framework for Voxel graphic.
 # AppStore
 
 * [Sky Guide AR](https://itunes.apple.com/us/app/sky-guide-view-stars-night-or-day/id576588894?mt=8) - A star app has never been more beautiful and easy to use.
