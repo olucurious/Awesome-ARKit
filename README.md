@@ -53,7 +53,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKit Navigation Demo](https://github.com/chriswebb09/ARKitNavigationDemo)
 * [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) - A collection of ARKit samples, including a custom rendering sample using Metal.
 * [Measure](https://github.com/levantAJ/Measure) - Using ARKit to make calculate distance of real world objects
-
+* [ARKitSpitfire](https://github.com/chriswebb09/ARKitSpitfire) - AR Spitfire that can orient itself towards then fly to geocoordinates.
 # AppStore
 
 * [Sky Guide AR](https://itunes.apple.com/us/app/sky-guide-view-stars-night-or-day/id576588894?mt=8) - A star app has never been more beautiful and easy to use.
