@@ -58,6 +58,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARPlayer](https://github.com/MaximAlien/ARPlayer) - Playback videos using ARKit and AVFoundation📺
 * [ARVoxelKit](https://github.com/VoxxxelAR/ARVoxelKit) - Lightweight Framework for Voxel graphic.
 * [ARKitSpitfire](https://github.com/chriswebb09/ARKitSpitfire) - AR Spitfire that can orient itself towards then fly to geocoordinates.
+* [ARInvaders] (https://github.com/aivantg/ar-invaders) - A port of Space Invaders using ARKit. Aliens will fly and chase you around your home. Can you shoot them before they shoot you?
 
 # AppStore
 
