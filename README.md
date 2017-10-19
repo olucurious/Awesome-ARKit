@@ -65,6 +65,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 # AppStore
 
 * [Sky Guide AR](https://itunes.apple.com/us/app/sky-guide-view-stars-night-or-day/id576588894?mt=8) - A star app has never been more beautiful and easy to use.
+* [StroodleDoodle AR](https://itunes.apple.com/us/app/stroodledoodle-ar/id1290383778) - Digital Play-Dough. Fast and fun 3D sculpting on any surface, anywhere. Share directly to sketchfab.
 * [Night Sky](https://itunes.apple.com/app/the-night-sky/id475772902?mt=8) - Night Sky is a powerful augmented reality personal planetarium.
 * [AR Dragon](https://itunes.apple.com/us/app/ar-dragon/id1270046606?mt=8) - Augmented Reality Virtual Pet Simulator!
 * [MyTools · My AR Light & Ruler](https://itunes.apple.com/us/app/%E6%88%91%E7%9A%84%E6%89%8B%E7%94%B5%E5%92%8C%E5%B0%BA%E5%AD%90-my-light-ruler/id557839389?mt=8) - 「My Ruler and Light」is a useful and delicately designed toolbox App for you.
