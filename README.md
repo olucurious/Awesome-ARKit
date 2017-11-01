@@ -62,6 +62,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKitAirport](https://github.com/chriswebb09/ARKitAirport) - Tap on map, plane will take off from an AR runway and fly to location you tapped.
 * [AR-FlatWeatherDiplay](https://github.com/nagam11/ARKit-Projects/tree/master/Project%2002%20-%20ARFlatWeather) - A live flat Weather Dashboard based on the user's location. ☀️⛈
 * [AR-Planes](https://github.com/Hack-the-North-2017/AR-Planes) - Visualize and discover the planes flying around you ✈️
+* [ARKit-Multiplayer](https://github.com/eugenebokhan/ARKit-Multiplayer) - ARKit Multiplayer example app.
 
 # AppStore
 
