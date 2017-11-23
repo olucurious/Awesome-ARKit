@@ -14,7 +14,6 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 - - -
 
 # Projects
-* [uARKit](https://github.com/mustafaatalar/uARKit) - Framework to simplify and improve usage of ARKit for non-AR developers
 * [ARBrush](https://github.com/laanlabs/ARBrush) - Quick demo of 3d drawing in ARKit using metal + SceneKit
 * [ARuler](https://github.com/duzexu/ARuler) - ARKit demo ruler app
 * [Apple ARKit example app](https://github.com/markdaws/arkit-by-example) - Apple ARKit example app
@@ -64,6 +63,8 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [AR-Planes](https://github.com/Hack-the-North-2017/AR-Planes) - Visualize and discover the planes flying around you ✈️
 * [ARKit-Multiplayer](https://github.com/eugenebokhan/ARKit-Multiplayer) - ARKit Multiplayer example app.
 * [ARVideoKit](https://github.com/AFathi/ARVideoKit) - Record and capture videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆 with ARKit content.
+* [uARKit](https://github.com/mustafaatalar/uARKit) - Framework to simplify and improve usage of ARKit for non-AR developers
+
 
 # AppStore
 
