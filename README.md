@@ -94,6 +94,8 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Magic Sudoku](https://itunes.apple.com/us/app/magic-sudoku/id1286979959) - Solve Sudoku puzzles in realtime (uses CoreML, Vision, and ARKit to create a seamless experience).
 * [Arcane Maze](https://itunes.apple.com/app/id1278819229) - Find your way out of maze.
 * [Waazy](https://itunes.apple.com/us/app/waazy-magic-ar-video-maker/id1286992749) - Waazy is an augmented reality short video clips shooting and sharing app, making it possible to bring virtual characters and objects to the real world
+* [Gruesome Gotham](https://itunes.apple.com/us/app/gruesome-gotham/id1299224537) - Murder! Mystery! Intrigue! Get a glimpse at New York City’s 19th century crime scenes using augmented reality. Travel between six murderous moments on the map and see the deadly deeds unfold right before your eyes.
+
 # Tutorials
 
 * [Apple ARKit by Example](https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59)
