@@ -64,7 +64,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKit-Multiplayer](https://github.com/eugenebokhan/ARKit-Multiplayer) - ARKit Multiplayer example app.
 * [ARVideoKit](https://github.com/AFathi/ARVideoKit) - Record and capture videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆 with ARKit content.
 * [uARKit](https://github.com/mustafaatalar/uARKit) - Framework to simplify and improve usage of ARKit for non-AR developers
-
+* [NextLevel](https://github.com/nextlevel/NextLevel) – Open Source ARKit Media Capture in Swift.
 
 # AppStore
 
