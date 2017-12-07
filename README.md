@@ -70,7 +70,6 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 
 # AppStore
 
-* [AR Snake Simulator](https://itunes.apple.com/us/app/ar-snake-simulator/id1305140729?mt=8) - AR game that is worth your attention! Can you become the longest player? What are you waiting for? Develop your skills, try to survive and eat more diamonds!
 * [ARPiano](https://itunes.apple.com/us/app/arpiano/id1287013036?l=zh&ls=1&mt=8) - A augmented reality fine-tuned and professional piano app with 61 keys or 88 keys, which you can place every plane to play.
 * [Sky Guide AR](https://itunes.apple.com/us/app/sky-guide-view-stars-night-or-day/id576588894?mt=8) - A star app has never been more beautiful and easy to use.
 * [StroodleDoodle AR](https://itunes.apple.com/us/app/stroodledoodle-ar/id1290383778) - Digital Play-Dough. Fast and fun 3D sculpting on any surface, anywhere. Share directly to sketchfab.
@@ -98,6 +97,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Arcane Maze](https://itunes.apple.com/app/id1278819229) - Find your way out of maze.
 * [Waazy](https://itunes.apple.com/us/app/waazy-magic-ar-video-maker/id1286992749) - Waazy is an augmented reality short video clips shooting and sharing app, making it possible to bring virtual characters and objects to the real world
 * [Gruesome Gotham](https://itunes.apple.com/us/app/gruesome-gotham/id1299224537) - Murder! Mystery! Intrigue! Get a glimpse at New York City’s 19th century crime scenes using augmented reality. Travel between six murderous moments on the map and see the deadly deeds unfold right before your eyes.
+* [AR Snake Simulator](https://itunes.apple.com/us/app/ar-snake-simulator/id1305140729?mt=8) - AR game that is worth your attention! Can you become the longest player? What are you waiting for? Develop your skills, try to survive and eat more diamonds!
 
 # Tutorials
 
