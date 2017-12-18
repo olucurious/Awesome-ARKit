@@ -123,6 +123,7 @@ Making A Remote Control Drone](https://medium.com/journey-of-one-thousand-apps/a
 * [Augmented Reality With ARKit: Detecting Planes](https://digitalleaves.com/blog/2017/10/augmented-reality-with-arkit-detecting-planes/)
 * [Behind the Magic: How we built the ARKit Sudoku Solver](https://blog.prototypr.io/behind-the-magic-how-we-built-the-arkit-sudoku-solver-e586e5b685b0)
 * [Place Objects In Augmented Reality Via ARKit](https://digitalleaves.com/blog/2017/11/augmented-reality-arkit-placing-objects/)
+* [Importing 3D Models for ARKit](https://medium.com/bpxl-craft/importing-3d-models-for-arkit-aa1728697e2)
 
 # Resources
 
