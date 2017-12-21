@@ -21,6 +21,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKit-line-drawing](https://github.com/lapfelix/ARKit-line-drawing) - Changed the default ARKit project to draw a line where the camera is positioned
 * [ARKit-tictactoe](https://github.com/bjarnel/arkit-tictactoe) - ARKit based tic-tac-toe with a decent AI opponent
 * [ARShooter](https://github.com/farice/ARShooter) - A basic Augmented Reality shooter made with ARKit in Swift (iOS 11)
+* [ARStack](https://github.com/XanderXu/ARStack) - AR version Stack game with ARKit in Swift
 * [ARRubiks](https://github.com/Nicholas714/ARRubiks) - A Rubik's Cube that you can put on a table
 * [ARTetris](https://github.com/exyte/ARTetris) - Augmented Reality Tetris made with ARKit and SceneKit
 * [ARText](https://github.com/markz-nyc/ARText) - ARText render 3D Text/caption in real world by using ARKit
