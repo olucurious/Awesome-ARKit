@@ -68,6 +68,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [NextLevel](https://github.com/nextlevel/NextLevel) – Open Source ARKit Media Capture in Swift.
 * [Findme](https://github.com/mmoaay/Findme) – Using ARKit to find me.
 * [SmileToUnlock](https://github.com/rsrbk/SmileToUnlock) – This library uses ARKit Face Tracking in order to catch a user's smile.
+* [ARKitEnvironmentMapper](https://github.com/svtek/ARKitEnvironmentMapper) - Create an environment map from the camera feed to achieve realistic lighting and reflections.
 
 # AppStore
 
