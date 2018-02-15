@@ -104,6 +104,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [AR Snake Simulator](https://itunes.apple.com/us/app/ar-snake-simulator/id1305140729?mt=8) - AR game that is worth your attention! Can you become the longest player? What are you waiting for? Develop your skills, try to survive and eat more diamonds!
 * [Floto](https://itunes.apple.com/us/app/flotogram/id1300137329) - Flotogram is a fully featured AR Photography and Video app that places your photos directly into an Augmented Reality scene around you.
 * [Horizon Explorer](https://itunes.apple.com/gb/app/horizon-explorer/id1326860431) - Point your camera at a hill, village or landmark on the horizon and Horizon Explorer tells you its name, distance and altitude.
+* [Imagipets AR](https://itunes.apple.com/app/id1286345361) - Play, feed and talk with imaginary dragon pets.
 
 # Tutorials
 
