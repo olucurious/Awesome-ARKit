@@ -137,6 +137,7 @@ Making A Remote Control Drone](https://medium.com/journey-of-one-thousand-apps/a
 * [React Native Binding](https://github.com/HippoAR/react-native-arkit) - React Native binding for ARKit
 * [Udemy Course](https://www.udemy.com/arkit-beginner-to-professional/?couponCode=THXEMMANUEL) - ARKit - Beginner to Professional in Swift 4 and iOS 11
 * [Adobe AIR Binding](https://github.com/tuarua/AR-ANE) - Adobe AIR Native Extension binding for ARKit
+* [Udacity Course](https://www.udacity.com/course/learn-arkit--nd114) - Learn ARKit with Unity Foundations
 
 # Contributing
 
