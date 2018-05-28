@@ -72,6 +72,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARBottleJump](https://github.com/songkuixi/ARBottleJump) - An ARKit version of WeChat Bottle Jump game.
 * [ARKit-Virtual-Backdrop](https://github.com/montaguegabe/arkit-virtual-backdrop) - Superimpose your image into a 3D rendered world using Metal.
 * [ARBubble-blower](https://github.com/AppPear/bubbleblower) - For creating stunning soap bubbles in your AR app, nothing is more fun than to pop bubbles in AR.
+* [Poly](https://github.com/piemonte/Poly) - Unofficial Googly Poly SDK. A library for searching and displaying 3D models.
 
 # AppStore
 
@@ -105,7 +106,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [AR Snake Simulator](https://itunes.apple.com/us/app/ar-snake-simulator/id1305140729?mt=8) - AR game that is worth your attention! Can you become the longest player? What are you waiting for? Develop your skills, try to survive and eat more diamonds!
 * [Floto](https://itunes.apple.com/us/app/flotogram/id1300137329) - Flotogram is a fully featured AR Photography and Video app that places your photos directly into an Augmented Reality scene around you.
 * [Horizon Explorer](https://itunes.apple.com/gb/app/horizon-explorer/id1326860431) - Point your camera at a hill, village or landmark on the horizon and Horizon Explorer tells you its name, distance and altitude.
-* [幻域奇谈](https://itunes.apple.com/cn/app/id1273501506) - Fight virtual creature using your phone. Cast different skills in 1:1 augumented realiaty world.
+* [Pocket Balloon](https://itunes.apple.com/app/apple-store/id1368660677?pt=454172&ct=website&mt=8) - Fly an air balloon by blowing on the screen of your phone. Search for landing zones in flat surfaces around you and land on them to earn points and compete with your friends.
 
 # Tutorials
 
@@ -131,6 +132,7 @@ Making A Remote Control Drone](https://medium.com/journey-of-one-thousand-apps/a
 * [Behind the Magic: How we built the ARKit Sudoku Solver](https://blog.prototypr.io/behind-the-magic-how-we-built-the-arkit-sudoku-solver-e586e5b685b0)
 * [Place Objects In Augmented Reality Via ARKit](https://digitalleaves.com/blog/2017/11/augmented-reality-arkit-placing-objects/)
 * [Importing 3D Models for ARKit](https://medium.com/bpxl-craft/importing-3d-models-for-arkit-aa1728697e2)
+* [Building an iPhone AR Museum App in iOS 11 with Apple’s ARKit Image Recognition](https://medium.com/@codeandco/building-an-iphone-ar-museum-app-in-ios-11-with-apples-arkit-image-recognition-b07febd90a91)
 
 # Resources
 
