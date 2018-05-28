@@ -72,6 +72,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARBottleJump](https://github.com/songkuixi/ARBottleJump) - An ARKit version of WeChat Bottle Jump game.
 * [ARKit-Virtual-Backdrop](https://github.com/montaguegabe/arkit-virtual-backdrop) - Superimpose your image into a 3D rendered world using Metal.
 * [ARBubble-blower](https://github.com/AppPear/bubbleblower) - For creating stunning soap bubbles in your AR app, nothing is more fun than to pop bubbles in AR.
+* [Poly](https://github.com/piemonte/Poly) - Unofficial Googly Poly SDK. A library for searching and displaying 3D models.
 
 # AppStore
 
