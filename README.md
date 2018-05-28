@@ -71,6 +71,11 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKitEnvironmentMapper](https://github.com/svtek/ARKitEnvironmentMapper) - Create an environment map from the camera feed to achieve realistic lighting and reflections.
 * [ARBottleJump](https://github.com/songkuixi/ARBottleJump) - An ARKit version of WeChat Bottle Jump game.
 * [ARKit-Virtual-Backdrop](https://github.com/montaguegabe/arkit-virtual-backdrop) - Superimpose your image into a 3D rendered world using Metal.
+* [Mokapp2017_World](https://github.com/gali8/Mokapp2017_World) - With Mokapp2017 World you can explore the world around you, play a video, put objects in front of you or to a plane (with gravity), play Space Invaders 3D.
+* [Mokapp2017_Face](https://github.com/gali8/Mokapp2017_Face) - With Mokapp2017 Face you can put objects and particles on your face.
+* [ARBubble-blower](https://github.com/AppPear/bubbleblower) - For creating stunning soap bubbles in your AR app, nothing is more fun than to pop bubbles in AR.
+* [WallStreaming](https://github.com/Bersaelor/WallStreaming) - Project demonstrating vertical surface detection and streaming/playing video on a virtual surface.
+* [Poly](https://github.com/piemonte/Poly) - Unofficial Googly Poly SDK. A library for searching and displaying 3D models.
 
 # AppStore
 
@@ -105,6 +110,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Floto](https://itunes.apple.com/us/app/flotogram/id1300137329) - Flotogram is a fully featured AR Photography and Video app that places your photos directly into an Augmented Reality scene around you.
 * [Horizon Explorer](https://itunes.apple.com/gb/app/horizon-explorer/id1326860431) - Point your camera at a hill, village or landmark on the horizon and Horizon Explorer tells you its name, distance and altitude.
 * [Imagipets AR](https://itunes.apple.com/app/id1286345361) - Play, feed and talk with imaginary dragon pets.
+* [Pocket Balloon](https://itunes.apple.com/app/apple-store/id1368660677?pt=454172&ct=website&mt=8) - Fly an air balloon by blowing on the screen of your phone. Search for landing zones in flat surfaces around you and land on them to earn points and compete with your friends.
 
 # Tutorials
 
@@ -130,6 +136,7 @@ Making A Remote Control Drone](https://medium.com/journey-of-one-thousand-apps/a
 * [Behind the Magic: How we built the ARKit Sudoku Solver](https://blog.prototypr.io/behind-the-magic-how-we-built-the-arkit-sudoku-solver-e586e5b685b0)
 * [Place Objects In Augmented Reality Via ARKit](https://digitalleaves.com/blog/2017/11/augmented-reality-arkit-placing-objects/)
 * [Importing 3D Models for ARKit](https://medium.com/bpxl-craft/importing-3d-models-for-arkit-aa1728697e2)
+* [Building an iPhone AR Museum App in iOS 11 with Apple’s ARKit Image Recognition](https://medium.com/@codeandco/building-an-iphone-ar-museum-app-in-ios-11-with-apples-arkit-image-recognition-b07febd90a91)
 
 # Resources
 
