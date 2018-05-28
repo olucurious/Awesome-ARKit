@@ -105,6 +105,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [AR Snake Simulator](https://itunes.apple.com/us/app/ar-snake-simulator/id1305140729?mt=8) - AR game that is worth your attention! Can you become the longest player? What are you waiting for? Develop your skills, try to survive and eat more diamonds!
 * [Floto](https://itunes.apple.com/us/app/flotogram/id1300137329) - Flotogram is a fully featured AR Photography and Video app that places your photos directly into an Augmented Reality scene around you.
 * [Horizon Explorer](https://itunes.apple.com/gb/app/horizon-explorer/id1326860431) - Point your camera at a hill, village or landmark on the horizon and Horizon Explorer tells you its name, distance and altitude.
+* [Pocket Balloon](https://itunes.apple.com/app/apple-store/id1368660677?pt=454172&ct=website&mt=8) - Fly an air balloon by blowing on the screen of your phone. Search for landing zones in flat surfaces around you and land on them to earn points and compete with your friends.
 
 # Tutorials
 
