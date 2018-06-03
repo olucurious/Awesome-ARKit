@@ -105,6 +105,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Wallr](https://itunes.apple.com/us/app/wallr/id1278372745) - Add pictures from your phone to the wall and pan and scale to find the best size and position.
 * [Magic Sudoku](https://itunes.apple.com/us/app/magic-sudoku/id1286979959) - Solve Sudoku puzzles in realtime (uses CoreML, Vision, and ARKit to create a seamless experience).
 * [Arcane Maze](https://itunes.apple.com/app/id1278819229) - Find your way out of maze.
+* [Wavy Music](https://itunes.apple.com/us/app/wavy-music/id1366917156?ls=1&mt=8) - Experience music in augmented reality.
 * [Waazy](https://itunes.apple.com/us/app/waazy-magic-ar-video-maker/id1286992749) - Waazy is an augmented reality short video clips shooting and sharing app, making it possible to bring virtual characters and objects to the real world
 * [Gruesome Gotham](https://itunes.apple.com/us/app/gruesome-gotham/id1299224537) - Murder! Mystery! Intrigue! Get a glimpse at New York City’s 19th century crime scenes using augmented reality. Travel between six murderous moments on the map and see the deadly deeds unfold right before your eyes.
 * [AR Snake Simulator](https://itunes.apple.com/us/app/ar-snake-simulator/id1305140729?mt=8) - AR game that is worth your attention! Can you become the longest player? What are you waiting for? Develop your skills, try to survive and eat more diamonds!
