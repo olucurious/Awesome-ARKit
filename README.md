@@ -14,6 +14,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 - - -
 
 # Projects
+* [ARMultiuser](https://github.com/szt243660543/ARMultiuser) - This demo use arkit 2.0, realize multiplayer play together! The project refers to the official demo！
 * [ARBrush](https://github.com/laanlabs/ARBrush) - Quick demo of 3d drawing in ARKit using metal + SceneKit
 * [ARuler](https://github.com/duzexu/ARuler) - ARKit demo ruler app
 * [Apple ARKit example app](https://github.com/markdaws/arkit-by-example) - Apple ARKit example app
