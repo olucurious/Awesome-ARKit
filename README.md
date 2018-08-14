@@ -80,6 +80,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARbusters](https://github.com/pedrommcarrasco/ARbusters) - AR game in a pixel/billboard style. Created as a first steps project for newcorners.
 * [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) - AR相册 Photo Album For AR
 * [ARBusinessCard](https://github.com/BlackMirrorz/ARKitBusinessCard) - Create and view fully interactive business cards.
+* [ARWorldMaps](https://github.com/BlackMirrorz/ARKitWorldMaps) - Scale, rotate and change the colour of a cube in realtime, across devices using ARWorldMaps.
 
 # AppStore
 
