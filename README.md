@@ -1,4 +1,4 @@
-# Awesome ARKit [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# Awesome ARKit [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 ![Banner](https://raw.githubusercontent.com/olucurious/awesome-arkit/master/banner.png)
@@ -82,6 +82,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 
 # AppStore
 
+* [Snake.AR](https://itunes.apple.com/us/app/snake-ar/id1412559766?ls=1&mt=8) - Classic Snake game in Augmented Reality! You can move around the snake by moving your phone. Be careful of the obstacles and have fun!
 * [ARPiano](https://itunes.apple.com/us/app/arpiano/id1287013036?l=zh&ls=1&mt=8) - A augmented reality fine-tuned and professional piano app with 61 keys or 88 keys, which you can place every plane to play.
 * [Sky Guide AR](https://itunes.apple.com/us/app/sky-guide-view-stars-night-or-day/id576588894?mt=8) - A star app has never been more beautiful and easy to use.
 * [StroodleDoodle AR](https://itunes.apple.com/us/app/stroodledoodle-ar/id1290383778) - Digital Play-Dough. Fast and fun 3D sculpting on any surface, anywhere. Share directly to sketchfab.
