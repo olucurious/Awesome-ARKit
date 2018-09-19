@@ -99,7 +99,6 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Human Anatomy Atlas 2018](https://itunes.apple.com/app/id1117998129) - Human Anatomy Atlas 2018 Edition is the go-to 3D anatomy reference app for healthcare professionals, students, and professors.
 * [Conduct AR!](https://itunes.apple.com/us/app/conduct-ar/id1256506674?mt=8&ign-mpt=uo%3D4) - Conduct AR! is an epic augmented reality game of explosive railway action.
 * [AirMeasure AR](https://itunes.apple.com/app/apple-store/id1251282152?mt=8) - This app lets you place virtual objects in augmented reality.
-* [Fitness AR](https://itunes.apple.com/us/app/fitness-ar/id1274233318) - Explore your Strava bike rides and runs in augmented reality.
 * [IKEA Place](https://itunes.apple.com/us/app/ikea-place/id1279244498?mt=8) - IKEA Place lets you virtually 'place' IKEA products in your space.
 * [CARROT Weather](https://itunes.apple.com/app/id961390574) - CARROT Weather is a crazy-powerful weather app that delivers hilariously twisted forecasts.
 * [Holo](https://itunes.apple.com/us/app/holo/id1194175772?mt=8) - Holo lets you add holograms of real people and animals into your world and take photos & videos to share with friends. 
