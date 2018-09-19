@@ -79,6 +79,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Poly](https://github.com/piemonte/Poly) - Unofficial Googly Poly SDK. A library for searching and displaying 3D models.
 * [ARbusters](https://github.com/pedrommcarrasco/ARbusters) - AR game in a pixel/billboard style. Created as a first steps project for newcorners.
 * [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) - AR相册 Photo Album For AR
+* [ARKit-Emperor](https://github.com/kboy-silvergym/ARKit-Emperor) - Power! Unlimited power for ARKit 2.0! (Samples)
 
 # AppStore
 
@@ -119,6 +120,8 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [WeAre](https://itunes.apple.com/cn/app/weare/id1304227680?mt=8) - AR相册
 * [ARBlockTower](https://github.com/Nicholas714/ARBlockTower) - Show a Block Tower to see how you can stack up against gravity 
 * [ARPlanets](https://github.com/Nicholas714/PlanetGravity) - Create a solar system and view how planet behaviors affect its motion 
+* [GRAFFITY - AR Video Chat -](https://itunes.apple.com/app/id1277452876?mt=8) - Hangout live with your friends with AR video chat
+* [Pemoji](https://itunes.apple.com/app/id1410639096?mt=8) - AR video app which lets you place your Bitmoji in real space
 
 # Tutorials
 
