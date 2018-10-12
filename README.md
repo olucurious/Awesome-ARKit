@@ -79,8 +79,8 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Poly](https://github.com/piemonte/Poly) - Unofficial Googly Poly SDK. A library for searching and displaying 3D models.
 * [ARbusters](https://github.com/pedrommcarrasco/ARbusters) - AR game in a pixel/billboard style. Created as a first steps project for newcorners.
 * [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) - AR相册 Photo Album For AR
-* [AR Drawing] (https://github.com/Rageeni/AR-Drawing) - Drawing in real world.
-* [AR Sections] (https://github.com/Rageeni/AR-Sections) 
+* [AR Drawing](https://github.com/Rageeni/AR-Drawing) - Drawing in real world.
+* [AR Sections](https://github.com/Rageeni/AR-Sections) 
   1. Plane Detection
   2. Put object on the floor
   3. Draw Planets
