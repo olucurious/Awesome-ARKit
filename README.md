@@ -81,6 +81,8 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Poly](https://github.com/piemonte/Poly) - Unofficial Googly Poly SDK. A library for searching and displaying 3D models.
 * [ARbusters](https://github.com/pedrommcarrasco/ARbusters) - AR game in a pixel/billboard style. Created as a first steps project for newcorners.
 * [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) - AR相册 Photo Album For AR
+* [ARBlockTower](https://github.com/Nicholas714/ARBlockTower) - Show a Block Tower to see how you can stack up against gravity 
+* [ARPlanets](https://github.com/Nicholas714/PlanetGravity) - Create a solar system and view how planet behaviors affect its motion 
 * [ARKit-Emperor](https://github.com/kboy-silvergym/ARKit-Emperor) - Power! Unlimited power for ARKit 2.0! (Samples)
 * [iOS-Depth-Sampler](https://github.com/shu223/iOS-Depth-Sampler) - A collection of samples for Depth APIs, including ARKit+Depth sample.
 * [ARTrailer](https://github.com/waitingcheung/ARTrailer) - Augmented Reality Movie Trailer made with ARKit and SceneKit.
