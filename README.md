@@ -1,4 +1,4 @@
-# Awesome ARKit [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+﻿# Awesome ARKit [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
 ![Banner](https://raw.githubusercontent.com/olucurious/awesome-arkit/master/banner.png)
@@ -14,6 +14,8 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 - - -
 
 # Projects
+
+* [ARMultiuser](https://github.com/szt243660543/ARMultiuser) - This demo use arkit 2.0, realize multiplayer play together! The project refers to the official demo！
 * [ARKit2.0-Prototype](https://github.com/simformsolutions/ARKit2.0-Prototype) - Bluetoothed ARKit 2.0 with ARWorldMap
 * [ARBrush](https://github.com/laanlabs/ARBrush) - Quick demo of 3d drawing in ARKit using metal + SceneKit
 * [ARuler](https://github.com/duzexu/ARuler) - ARKit demo ruler app
@@ -80,9 +82,13 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARbusters](https://github.com/pedrommcarrasco/ARbusters) - AR game in a pixel/billboard style. Created as a first steps project for newcorners.
 * [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) - AR相册 Photo Album For AR
 * [iOS-Depth-Sampler](https://github.com/shu223/iOS-Depth-Sampler) - A collection of samples for Depth APIs, including ARKit+Depth sample.
+* [ARTrailer](https://github.com/waitingcheung/ARTrailer) - Augmented Reality Movie Trailer made with ARKit and SceneKit.
+* [ARBusinessCard](https://github.com/BlackMirrorz/ARKitBusinessCard) - Create and view fully interactive business cards.
+* [ARStarter](https://github.com/codePrincess/ARStarter) - get started with ARKit - a little exercise for beginners.
 
 # AppStore
 
+* [Snake.AR](https://itunes.apple.com/us/app/snake-ar/id1412559766?ls=1&mt=8) - Classic Snake game in Augmented Reality! You can move around the snake by moving your phone. Be careful of the obstacles and have fun!
 * [ARPiano](https://itunes.apple.com/us/app/arpiano/id1287013036?l=zh&ls=1&mt=8) - A augmented reality fine-tuned and professional piano app with 61 keys or 88 keys, which you can place every plane to play.
 * [Sky Guide AR](https://itunes.apple.com/us/app/sky-guide-view-stars-night-or-day/id576588894?mt=8) - A star app has never been more beautiful and easy to use.
 * [StroodleDoodle AR](https://itunes.apple.com/us/app/stroodledoodle-ar/id1290383778) - Digital Play-Dough. Fast and fun 3D sculpting on any surface, anywhere. Share directly to sketchfab.
@@ -99,7 +105,6 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Human Anatomy Atlas 2018](https://itunes.apple.com/app/id1117998129) - Human Anatomy Atlas 2018 Edition is the go-to 3D anatomy reference app for healthcare professionals, students, and professors.
 * [Conduct AR!](https://itunes.apple.com/us/app/conduct-ar/id1256506674?mt=8&ign-mpt=uo%3D4) - Conduct AR! is an epic augmented reality game of explosive railway action.
 * [AirMeasure AR](https://itunes.apple.com/app/apple-store/id1251282152?mt=8) - This app lets you place virtual objects in augmented reality.
-* [Fitness AR](https://itunes.apple.com/us/app/fitness-ar/id1274233318) - Explore your Strava bike rides and runs in augmented reality.
 * [IKEA Place](https://itunes.apple.com/us/app/ikea-place/id1279244498?mt=8) - IKEA Place lets you virtually 'place' IKEA products in your space.
 * [CARROT Weather](https://itunes.apple.com/app/id961390574) - CARROT Weather is a crazy-powerful weather app that delivers hilariously twisted forecasts.
 * [Holo](https://itunes.apple.com/us/app/holo/id1194175772?mt=8) - Holo lets you add holograms of real people and animals into your world and take photos & videos to share with friends. 
@@ -120,6 +125,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [WeAre](https://itunes.apple.com/cn/app/weare/id1304227680?mt=8) - AR相册
 * [ARBlockTower](https://github.com/Nicholas714/ARBlockTower) - Show a Block Tower to see how you can stack up against gravity 
 * [ARPlanets](https://github.com/Nicholas714/PlanetGravity) - Create a solar system and view how planet behaviors affect its motion 
+* [Climbing AR](https://itunes.apple.com/us/app/climbing-ar/id1438579200?mt=8) - Augmented Reality climbing planner for climbers that pre-plan before ascending the rock climb.
 
 # Tutorials
 
