@@ -14,7 +14,9 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 - - -
 
 # Projects
+
 * [ARMultiuser](https://github.com/szt243660543/ARMultiuser) - This demo use arkit 2.0, realize multiplayer play together! The project refers to the official demo！
+* [ARKit2.0-Prototype](https://github.com/simformsolutions/ARKit2.0-Prototype) - Bluetoothed ARKit 2.0 with ARWorldMap
 * [ARBrush](https://github.com/laanlabs/ARBrush) - Quick demo of 3d drawing in ARKit using metal + SceneKit
 * [ARuler](https://github.com/duzexu/ARuler) - ARKit demo ruler app
 * [Apple ARKit example app](https://github.com/markdaws/arkit-by-example) - Apple ARKit example app
@@ -78,6 +80,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [WallStreaming](https://github.com/Bersaelor/WallStreaming) - Project demonstrating vertical surface detection and streaming/playing video on a virtual surface.
 * [Poly](https://github.com/piemonte/Poly) - Unofficial Googly Poly SDK. A library for searching and displaying 3D models.
 * [ARbusters](https://github.com/pedrommcarrasco/ARbusters) - AR game in a pixel/billboard style. Created as a first steps project for newcorners.
+* [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) - AR相册 Photo Album For AR
 
 # AppStore
 
@@ -115,6 +118,9 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Imagipets AR](https://itunes.apple.com/app/id1286345361) - Play, feed and talk with imaginary dragon pets.
 * [Pocket Balloon](https://itunes.apple.com/app/apple-store/id1368660677?pt=454172&ct=website&mt=8) - Fly an air balloon by blowing on the screen of your phone. Search for landing zones in flat surfaces around you and land on them to earn points and compete with your friends.
 * [AR Candle](https://itunes.apple.com/us/app/ar%E7%A5%88%E7%A6%8F/id1346647915?mt=8) - AR Candle is an augmented reality candle blessing app.
+* [WeAre](https://itunes.apple.com/cn/app/weare/id1304227680?mt=8) - AR相册
+* [ARBlockTower](https://github.com/Nicholas714/ARBlockTower) - Show a Block Tower to see how you can stack up against gravity 
+* [ARPlanets](https://github.com/Nicholas714/PlanetGravity) - Create a solar system and view how planet behaviors affect its motion 
 
 # Tutorials
 
