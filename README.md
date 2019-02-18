@@ -14,6 +14,8 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 - - -
 
 # Projects
+
+* [ARMultiuser](https://github.com/szt243660543/ARMultiuser) - This demo use arkit 2.0, realize multiplayer play together! The project refers to the official demo！
 * [ARKit2.0-Prototype](https://github.com/simformsolutions/ARKit2.0-Prototype) - Bluetoothed ARKit 2.0 with ARWorldMap
 * [ARBrush](https://github.com/laanlabs/ARBrush) - Quick demo of 3d drawing in ARKit using metal + SceneKit
 * [ARuler](https://github.com/duzexu/ARuler) - ARKit demo ruler app
@@ -80,6 +82,8 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARbusters](https://github.com/pedrommcarrasco/ARbusters) - AR game in a pixel/billboard style. Created as a first steps project for newcorners.
 * [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) - AR相册 Photo Album For AR
 * [ARTrailer](https://github.com/waitingcheung/ARTrailer) - Augmented Reality Movie Trailer made with ARKit and SceneKit.
+* [ARBusinessCard](https://github.com/BlackMirrorz/ARKitBusinessCard) - Create and view fully interactive business cards.
+* [ARStarter](https://github.com/codePrincess/ARStarter) - get started with ARKit - a little exercise for beginners.
 
 # AppStore
 
@@ -120,6 +124,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [WeAre](https://itunes.apple.com/cn/app/weare/id1304227680?mt=8) - AR相册
 * [ARBlockTower](https://github.com/Nicholas714/ARBlockTower) - Show a Block Tower to see how you can stack up against gravity 
 * [ARPlanets](https://github.com/Nicholas714/PlanetGravity) - Create a solar system and view how planet behaviors affect its motion 
+* [Climbing AR](https://itunes.apple.com/us/app/climbing-ar/id1438579200?mt=8) - Augmented Reality climbing planner for climbers that pre-plan before ascending the rock climb.
 
 # Tutorials
 
