@@ -131,6 +131,8 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [AR Candle](https://itunes.apple.com/us/app/ar%E7%A5%88%E7%A6%8F/id1346647915?mt=8) - AR Candle is an augmented reality candle blessing app.
 * [ARBlockTower](https://github.com/Nicholas714/ARBlockTower) - Show a Block Tower to see how you can stack up against gravity 
 * [ARPlanets](https://github.com/Nicholas714/PlanetGravity) - Create a solar system and view how planet behaviors affect its motion 
+* [Hotstepper](https://itunes.apple.com/us/app/hotstepper/id1287586495?ls=1&mt=8) - Augmented Reality Animated Wayfinder using Mapkit
+* [BBC Civilisations](https://itunes.apple.com/us/app/civilisations-ar/id1350792208?mt=8) - AR Museum in your house
 * [AR Label Maker](https://itunes.apple.com/us/app/ar-label-maker/id1435728649?mt=8&ign-mpt=uo%3D2) - place text labels in the real world. Supports saving, loading, and sharing
 * [GRAFFITY - AR Video Chat -](https://itunes.apple.com/app/id1277452876?mt=8) - Hangout live with your friends with AR video chat
 * [Pemoji](https://itunes.apple.com/app/id1410639096?mt=8) - AR video app which lets you place your Bitmoji in real space
