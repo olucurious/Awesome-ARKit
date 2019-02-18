@@ -14,6 +14,8 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 - - -
 
 # Projects
+
+* [ARMultiuser](https://github.com/szt243660543/ARMultiuser) - This demo use arkit 2.0, realize multiplayer play together! The project refers to the official demo！
 * [ARKit2.0-Prototype](https://github.com/simformsolutions/ARKit2.0-Prototype) - Bluetoothed ARKit 2.0 with ARWorldMap
 * [ARBrush](https://github.com/laanlabs/ARBrush) - Quick demo of 3d drawing in ARKit using metal + SceneKit
 * [ARuler](https://github.com/duzexu/ARuler) - ARKit demo ruler app
@@ -63,7 +65,6 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKitAirport](https://github.com/chriswebb09/ARKitAirport) - Tap on map, plane will take off from an AR runway and fly to location you tapped.
 * [AR-FlatWeatherDiplay](https://github.com/nagam11/ARKit-Projects/tree/master/Project%2002%20-%20ARFlatWeather) - A live flat Weather Dashboard based on the user's location. ☀️⛈
 * [AR-Planes](https://github.com/Hack-the-North-2017/AR-Planes) - Visualize and discover the planes flying around you ✈️
-* [ARKit-Multiplayer](https://github.com/eugenebokhan/ARKit-Multiplayer) - ARKit Multiplayer example app.
 * [ARVideoKit](https://github.com/AFathi/ARVideoKit) - Record and capture videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆 with ARKit content.
 * [uARKit](https://github.com/mustafaatalar/uARKit) - Framework to simplify and improve usage of ARKit for non-AR developers
 * [NextLevel](https://github.com/nextlevel/NextLevel) – Open Source ARKit Media Capture in Swift.
@@ -79,9 +80,24 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Poly](https://github.com/piemonte/Poly) - Unofficial Googly Poly SDK. A library for searching and displaying 3D models.
 * [ARbusters](https://github.com/pedrommcarrasco/ARbusters) - AR game in a pixel/billboard style. Created as a first steps project for newcorners.
 * [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) - AR相册 Photo Album For AR
+* [SceneKit PortalMask](https://github.com/maxxfrazer/SceneKit-PortalMask) - Pod to create a space that is occluded from the outside except through a rectangular or circular frame
+* [AR Drawing](https://github.com/Rageeni/AR-Drawing) - Drawing in real world.
+* [AR Sections](https://github.com/Rageeni/AR-Sections) 
+  1. Plane Detection
+  2. Put object on the floor
+  3. Draw Planets
+  4. AR Hit Game
+* [ARBlockTower](https://github.com/Nicholas714/ARBlockTower) - Show a Block Tower to see how you can stack up against gravity 
+* [ARPlanets](https://github.com/Nicholas714/PlanetGravity) - Create a solar system and view how planet behaviors affect its motion 
+* [ARKit-Emperor](https://github.com/kboy-silvergym/ARKit-Emperor) - Power! Unlimited power for ARKit 2.0! (Samples)
+* [iOS-Depth-Sampler](https://github.com/shu223/iOS-Depth-Sampler) - A collection of samples for Depth APIs, including ARKit+Depth sample.
+* [ARTrailer](https://github.com/waitingcheung/ARTrailer) - Augmented Reality Movie Trailer made with ARKit and SceneKit.
+* [ARBusinessCard](https://github.com/BlackMirrorz/ARKitBusinessCard) - Create and view fully interactive business cards.
+* [ARStarter](https://github.com/codePrincess/ARStarter) - get started with ARKit - a little exercise for beginners.
 
 # AppStore
 
+* [Snake.AR](https://itunes.apple.com/us/app/snake-ar/id1412559766?ls=1&mt=8) - Classic Snake game in Augmented Reality! You can move around the snake by moving your phone. Be careful of the obstacles and have fun!
 * [ARPiano](https://itunes.apple.com/us/app/arpiano/id1287013036?l=zh&ls=1&mt=8) - A augmented reality fine-tuned and professional piano app with 61 keys or 88 keys, which you can place every plane to play.
 * [Sky Guide AR](https://itunes.apple.com/us/app/sky-guide-view-stars-night-or-day/id576588894?mt=8) - A star app has never been more beautiful and easy to use.
 * [StroodleDoodle AR](https://itunes.apple.com/us/app/stroodledoodle-ar/id1290383778) - Digital Play-Dough. Fast and fun 3D sculpting on any surface, anywhere. Share directly to sketchfab.
@@ -98,11 +114,9 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Human Anatomy Atlas 2018](https://itunes.apple.com/app/id1117998129) - Human Anatomy Atlas 2018 Edition is the go-to 3D anatomy reference app for healthcare professionals, students, and professors.
 * [Conduct AR!](https://itunes.apple.com/us/app/conduct-ar/id1256506674?mt=8&ign-mpt=uo%3D4) - Conduct AR! is an epic augmented reality game of explosive railway action.
 * [AirMeasure AR](https://itunes.apple.com/app/apple-store/id1251282152?mt=8) - This app lets you place virtual objects in augmented reality.
-* [Fitness AR](https://itunes.apple.com/us/app/fitness-ar/id1274233318) - Explore your Strava bike rides and runs in augmented reality.
 * [IKEA Place](https://itunes.apple.com/us/app/ikea-place/id1279244498?mt=8) - IKEA Place lets you virtually 'place' IKEA products in your space.
 * [CARROT Weather](https://itunes.apple.com/app/id961390574) - CARROT Weather is a crazy-powerful weather app that delivers hilariously twisted forecasts.
 * [Holo](https://itunes.apple.com/us/app/holo/id1194175772?mt=8) - Holo lets you add holograms of real people and animals into your world and take photos & videos to share with friends. 
-* [HANI](https://itunes.apple.com/app/id1227361094) - HANI - video camera & editor with awesome AR Brush, 3D rainbow.
 * [Surreal](https://itunes.apple.com/app/id1286981298) - People can customize any surrounding environment into their wildest dreams: expressing themselves in a new mixed reality space, as well as sharing with family, friends and other social outlets.
 * [Wallr](https://itunes.apple.com/us/app/wallr/id1278372745) - Add pictures from your phone to the wall and pan and scale to find the best size and position.
 * [Magic Sudoku](https://itunes.apple.com/us/app/magic-sudoku/id1286979959) - Solve Sudoku puzzles in realtime (uses CoreML, Vision, and ARKit to create a seamless experience).
@@ -110,17 +124,19 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Wavy Music](https://itunes.apple.com/us/app/wavy-music/id1366917156?ls=1&mt=8) - Experience music in augmented reality.
 * [Waazy](https://itunes.apple.com/us/app/waazy-magic-ar-video-maker/id1286992749) - Waazy is an augmented reality short video clips shooting and sharing app, making it possible to bring virtual characters and objects to the real world
 * [Gruesome Gotham](https://itunes.apple.com/us/app/gruesome-gotham/id1299224537) - Murder! Mystery! Intrigue! Get a glimpse at New York City’s 19th century crime scenes using augmented reality. Travel between six murderous moments on the map and see the deadly deeds unfold right before your eyes.
-* [AR Snake Simulator](https://itunes.apple.com/us/app/ar-snake-simulator/id1305140729?mt=8) - AR game that is worth your attention! Can you become the longest player? What are you waiting for? Develop your skills, try to survive and eat more diamonds!
 * [Floto](https://itunes.apple.com/us/app/flotogram/id1300137329) - Flotogram is a fully featured AR Photography and Video app that places your photos directly into an Augmented Reality scene around you.
 * [Horizon Explorer](https://itunes.apple.com/gb/app/horizon-explorer/id1326860431) - Point your camera at a hill, village or landmark on the horizon and Horizon Explorer tells you its name, distance and altitude.
 * [Imagipets AR](https://itunes.apple.com/app/id1286345361) - Play, feed and talk with imaginary dragon pets.
 * [Pocket Balloon](https://itunes.apple.com/app/apple-store/id1368660677?pt=454172&ct=website&mt=8) - Fly an air balloon by blowing on the screen of your phone. Search for landing zones in flat surfaces around you and land on them to earn points and compete with your friends.
 * [AR Candle](https://itunes.apple.com/us/app/ar%E7%A5%88%E7%A6%8F/id1346647915?mt=8) - AR Candle is an augmented reality candle blessing app.
-* [WeAre](https://itunes.apple.com/cn/app/weare/id1304227680?mt=8) - AR相册
 * [ARBlockTower](https://github.com/Nicholas714/ARBlockTower) - Show a Block Tower to see how you can stack up against gravity 
 * [ARPlanets](https://github.com/Nicholas714/PlanetGravity) - Create a solar system and view how planet behaviors affect its motion 
 * [Hotstepper](https://itunes.apple.com/us/app/hotstepper/id1287586495?ls=1&mt=8) - Augmented Reality Animated Wayfinder using Mapkit
 * [BBC Civilisations](https://itunes.apple.com/us/app/civilisations-ar/id1350792208?mt=8) - AR Museum in your house
+* [AR Label Maker](https://itunes.apple.com/us/app/ar-label-maker/id1435728649?mt=8&ign-mpt=uo%3D2) - place text labels in the real world. Supports saving, loading, and sharing
+* [GRAFFITY - AR Video Chat -](https://itunes.apple.com/app/id1277452876?mt=8) - Hangout live with your friends with AR video chat
+* [Pemoji](https://itunes.apple.com/app/id1410639096?mt=8) - AR video app which lets you place your Bitmoji in real space
+* [Climbing AR](https://itunes.apple.com/us/app/climbing-ar/id1438579200?mt=8) - Augmented Reality climbing planner for climbers that pre-plan before ascending the rock climb.
 
 # Tutorials
 
