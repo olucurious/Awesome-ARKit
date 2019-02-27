@@ -137,6 +137,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [GRAFFITY - AR Video Chat -](https://itunes.apple.com/app/id1277452876?mt=8) - Hangout live with your friends with AR video chat
 * [Pemoji](https://itunes.apple.com/app/id1410639096?mt=8) - AR video app which lets you place your Bitmoji in real space
 * [Climbing AR](https://itunes.apple.com/us/app/climbing-ar/id1438579200?mt=8) - Augmented Reality climbing planner for climbers that pre-plan before ascending the rock climb.
+* [Rikskit](https://itunes.apple.com/us/app/riksroom/id1443213388?mt=8) - Multiplayer AR space. Draw, place 3D models from Google Poly, add images, add text, and play a mini-game in Riksroom.
 
 # Tutorials
 
