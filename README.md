@@ -96,7 +96,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARStarter](https://github.com/codePrincess/ARStarter) - get started with ARKit - a little exercise for beginners.
 
 # AppStore
-
+* [AR Trainer](https://itunes.apple.com/us/app/ar-trainer/id1203180467) - Augmented reality App that allows you to do exercises from home.
 * [Snake.AR](https://itunes.apple.com/us/app/snake-ar/id1412559766?ls=1&mt=8) - Classic Snake game in Augmented Reality! You can move around the snake by moving your phone. Be careful of the obstacles and have fun!
 * [ARPiano](https://itunes.apple.com/us/app/arpiano/id1287013036?l=zh&ls=1&mt=8) - A augmented reality fine-tuned and professional piano app with 61 keys or 88 keys, which you can place every plane to play.
 * [Sky Guide AR](https://itunes.apple.com/us/app/sky-guide-view-stars-night-or-day/id576588894?mt=8) - A star app has never been more beautiful and easy to use.
