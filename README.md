@@ -1,7 +1,8 @@
 # Awesome ARKit [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
+[![Build Status](https://api.travis-ci.org/olucurious/Awesome-ARKit.svg?branch=master)](https://travis-ci.com/olucurious/Awesome-ARKit)
 
 ![Banner](https://raw.githubusercontent.com/olucurious/awesome-arkit/master/banner.png)
+
 A curated list of awesome ARKit projects and resources. Feel free to contribute!
 
 ARKit is a new framework that allows you to easily create unparalleled augmented reality experiences for iPhone and iPad. By blending digital objects and information with the environment around you, ARKit takes apps beyond the screen, freeing them to interact with the real world in entirely new ways.
@@ -88,7 +89,6 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
   3. Draw Planets
   4. AR Hit Game
 * [ARBlockTower](https://github.com/Nicholas714/ARBlockTower) - Show a Block Tower to see how you can stack up against gravity 
-* [ARPlanets](https://github.com/Nicholas714/PlanetGravity) - Create a solar system and view how planet behaviors affect its motion 
 * [ARKit-Emperor](https://github.com/kboy-silvergym/ARKit-Emperor) - Power! Unlimited power for ARKit 2.0! (Samples)
 * [iOS-Depth-Sampler](https://github.com/shu223/iOS-Depth-Sampler) - A collection of samples for Depth APIs, including ARKit+Depth sample.
 * [ARTrailer](https://github.com/waitingcheung/ARTrailer) - Augmented Reality Movie Trailer made with ARKit and SceneKit.
@@ -109,7 +109,6 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Euclidean Lands](https://itunes.apple.com/us/app/euclidean-lands/id1181212221?mt=8) - A beautiful puzzle game with unique mechanics that blends isometric architecture and turn-based movement into an exciting medieval game world.
 * [Homebrew Club](https://itunes.apple.com/us/app/homebrew-club/id1278615967?mt=8) - In augmented reality, you can always place the computer on your desk, floor or even bed. Then the computer can be observed in any orientations and distances. Anyway, this is just like a real computer!
 * [Stik AR](https://itunes.apple.com/us/app/stik-ar/id1072055511?mt=8) - People can stick stickers at where iPhone at in real space.
-* [Miaow: Your Exclusive AR Pet](https://itunes.apple.com/us/app/miaow-your-exclusive-ar-pet/id1278831491?mt=8) - Play Miaow AR Cat, the fun free cute virtual pet live in real environment, the best playmate for everyone, especially for kids!
 * [Zombie Gunship Revenant AR](https://itunes.apple.com/us/app/zombie-gunship-revenant-ar/id1254976492?mt=8) - ZOMBIE GUNSHIP REVENANT is the ultimate augmented reality zombie shooter where you take control of a heavily-armed helicopter gunship and obliterate zombies from the sky.
 * [Human Anatomy Atlas 2018](https://itunes.apple.com/app/id1117998129) - Human Anatomy Atlas 2018 Edition is the go-to 3D anatomy reference app for healthcare professionals, students, and professors.
 * [Conduct AR!](https://itunes.apple.com/us/app/conduct-ar/id1256506674?mt=8&ign-mpt=uo%3D4) - Conduct AR! is an epic augmented reality game of explosive railway action.
@@ -129,12 +128,9 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Imagipets AR](https://itunes.apple.com/app/id1286345361) - Play, feed and talk with imaginary dragon pets.
 * [Pocket Balloon](https://itunes.apple.com/app/apple-store/id1368660677?pt=454172&ct=website&mt=8) - Fly an air balloon by blowing on the screen of your phone. Search for landing zones in flat surfaces around you and land on them to earn points and compete with your friends.
 * [AR Candle](https://itunes.apple.com/us/app/ar%E7%A5%88%E7%A6%8F/id1346647915?mt=8) - AR Candle is an augmented reality candle blessing app.
-* [ARBlockTower](https://github.com/Nicholas714/ARBlockTower) - Show a Block Tower to see how you can stack up against gravity 
-* [ARPlanets](https://github.com/Nicholas714/PlanetGravity) - Create a solar system and view how planet behaviors affect its motion 
 * [Hotstepper](https://itunes.apple.com/us/app/hotstepper/id1287586495?ls=1&mt=8) - Augmented Reality Animated Wayfinder using Mapkit
 * [BBC Civilisations](https://itunes.apple.com/us/app/civilisations-ar/id1350792208?mt=8) - AR Museum in your house
 * [AR Label Maker](https://itunes.apple.com/us/app/ar-label-maker/id1435728649?mt=8&ign-mpt=uo%3D2) - place text labels in the real world. Supports saving, loading, and sharing
-* [GRAFFITY - AR Video Chat -](https://itunes.apple.com/app/id1277452876?mt=8) - Hangout live with your friends with AR video chat
 * [Pemoji](https://itunes.apple.com/app/id1410639096?mt=8) - AR video app which lets you place your Bitmoji in real space
 * [Climbing AR](https://itunes.apple.com/us/app/climbing-ar/id1438579200?mt=8) - Augmented Reality climbing planner for climbers that pre-plan before ascending the rock climb.
 * [Rikskit](https://itunes.apple.com/us/app/riksroom/id1443213388?mt=8) - Multiplayer AR space. Draw, place 3D models from Google Poly, add images, add text, and play a mini-game in Riksroom.
