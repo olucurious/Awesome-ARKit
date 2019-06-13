@@ -94,6 +94,9 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARTrailer](https://github.com/waitingcheung/ARTrailer) - Augmented Reality Movie Trailer made with ARKit and SceneKit.
 * [ARBusinessCard](https://github.com/BlackMirrorz/ARKitBusinessCard) - Create and view fully interactive business cards.
 * [ARStarter](https://github.com/codePrincess/ARStarter) - get started with ARKit - a little exercise for beginners.
+* [MarvelAR](https://github.com/hadiidbouk/MarvelAR) - MarvelAR is an iOS application that present Marvel Heroes 3D Models Using ARKit.
+
+
 
 # AppStore
 
