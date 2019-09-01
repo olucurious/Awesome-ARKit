@@ -1,4 +1,5 @@
 # Awesome ARKit [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 [![Build Status](https://api.travis-ci.org/olucurious/Awesome-ARKit.svg?branch=master)](https://travis-ci.com/olucurious/Awesome-ARKit)
 
 ![Banner](https://raw.githubusercontent.com/olucurious/awesome-arkit/master/banner.png)
@@ -36,7 +37,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKitGameSpriteKit](https://github.com/eh3rrera/ARKitGameSpriteKit) - A game inspired by Pokemon Go build with ARKit and SpriteKit
 * [MeasureThings](https://github.com/whitesmith/MeasureThings) - ARKit introduction: measure the distance between two points
 * [ARCharts](https://github.com/Boris-Em/ARCharts) - 3D charts in AR
-* [3DSnakeAR](https://github.com/PGSSoft/3DSnakeAR) - Snake 3D game 🐍 
+* [3DSnakeAR](https://github.com/PGSSoft/3DSnakeAR) - Snake 3D game 🐍
 * [ARSolarPlay](https://github.com/miliPolo/ARSolarPlay) - Solar system in AR
 * [ARKit-CoreLocation](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data
 * [ARKitPlusVR](https://github.com/WorkerAmo/ARKitPlusVR) - Make VR with SceneKit & ARKit
@@ -57,7 +58,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKit Navigation Demo](https://github.com/chriswebb09/ARKitNavigationDemo)
 * [ARKit-Sampler](https://github.com/shu223/ARKit-Sampler) - A collection of ARKit samples, including a custom rendering sample using Metal.
 * [Measure](https://github.com/levantAJ/Measure) - Using ARKit to make calculate distance of real world objects
-* [Ruler](https://github.com/TBXark/Ruler) - An AR ruler app can measure length & area 
+* [Ruler](https://github.com/TBXark/Ruler) - An AR ruler app can measure length & area
 * [Twilio Video chat w/ AR](https://github.com/twilio/video-quickstart-swift/tree/master/ARKitExample) - Twilio Video chat with AR in scene
 * [ARPlayer](https://github.com/MaximAlien/ARPlayer) - Playback videos using ARKit and AVFoundation📺
 * [ARVoxelKit](https://github.com/VoxxxelAR/ARVoxelKit) - Lightweight Framework for Voxel graphic.
@@ -83,12 +84,12 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [HeavenMemoirs](https://github.com/SherlockQi/HeavenMemoirs) - AR相册 Photo Album For AR
 * [SceneKit PortalMask](https://github.com/maxxfrazer/SceneKit-PortalMask) - Pod to create a space that is occluded from the outside except through a rectangular or circular frame
 * [AR Drawing](https://github.com/Rageeni/AR-Drawing) - Drawing in real world.
-* [AR Sections](https://github.com/Rageeni/AR-Sections) 
+* [AR Sections](https://github.com/Rageeni/AR-Sections)
   1. Plane Detection
   2. Put object on the floor
   3. Draw Planets
   4. AR Hit Game
-* [ARBlockTower](https://github.com/Nicholas714/ARBlockTower) - Show a Block Tower to see how you can stack up against gravity 
+* [ARBlockTower](https://github.com/Nicholas714/ARBlockTower) - Show a Block Tower to see how you can stack up against gravity
 * [ARKit-Emperor](https://github.com/kboy-silvergym/ARKit-Emperor) - Power! Unlimited power for ARKit 2.0! (Samples)
 * [iOS-Depth-Sampler](https://github.com/shu223/iOS-Depth-Sampler) - A collection of samples for Depth APIs, including ARKit+Depth sample.
 * [ARTrailer](https://github.com/waitingcheung/ARTrailer) - Augmented Reality Movie Trailer made with ARKit and SceneKit.
@@ -118,7 +119,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [AirMeasure AR](https://itunes.apple.com/app/apple-store/id1251282152?mt=8) - This app lets you place virtual objects in augmented reality.
 * [IKEA Place](https://itunes.apple.com/us/app/ikea-place/id1279244498?mt=8) - IKEA Place lets you virtually 'place' IKEA products in your space.
 * [CARROT Weather](https://itunes.apple.com/app/id961390574) - CARROT Weather is a crazy-powerful weather app that delivers hilariously twisted forecasts.
-* [Holo](https://itunes.apple.com/us/app/holo/id1194175772?mt=8) - Holo lets you add holograms of real people and animals into your world and take photos & videos to share with friends. 
+* [Holo](https://itunes.apple.com/us/app/holo/id1194175772?mt=8) - Holo lets you add holograms of real people and animals into your world and take photos & videos to share with friends.
 * [Surreal](https://itunes.apple.com/app/id1286981298) - People can customize any surrounding environment into their wildest dreams: expressing themselves in a new mixed reality space, as well as sharing with family, friends and other social outlets.
 * [Wallr](https://itunes.apple.com/us/app/wallr/id1278372745) - Add pictures from your phone to the wall and pan and scale to find the best size and position.
 * [Magic Sudoku](https://itunes.apple.com/us/app/magic-sudoku/id1286979959) - Solve Sudoku puzzles in realtime (uses CoreML, Vision, and ARKit to create a seamless experience).
@@ -175,4 +176,3 @@ Making A Remote Control Drone](https://medium.com/journey-of-one-thousand-apps/a
 # Contributing
 
 Your contributions are always welcome! To add, remove, or change things on the list: Submit a pull request. See `contribution.md` for guidelines.
-
