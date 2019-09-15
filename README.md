@@ -96,6 +96,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARBusinessCard](https://github.com/BlackMirrorz/ARKitBusinessCard) - Create and view fully interactive business cards.
 * [ARStarter](https://github.com/codePrincess/ARStarter) - get started with ARKit - a little exercise for beginners.
 * [MarvelAR](https://github.com/hadiidbouk/MarvelAR) - MarvelAR is an iOS application that present Marvel Heroes 3D Models Using ARKit.
+* [AR-Quick-Look](https://github.com/anand2nigam/AR-Quick-Look) - Rendering any 3d model in Augmented Reality using AR-Quick-Look, recently launched by Apple to view or share your 3d model.
 
 
 
@@ -142,6 +143,8 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 # Tutorials
 
 * [Apple ARKit by Example](https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59)
+* [How to implement Apple AR-Quick-Look by Example](https://medium.com/better-programming/how-to-implement-ar-quicklook-in-your-app-18d513a13b9f)
+* [What is USDZ, Apple's 3d model format for ARKit and how to convert your existing model into usdz by Example](https://medium.com/better-programming/what-is-usdz-and-how-to-convert-your-3d-model-to-usdz-dac2e6205036)
 * [Getting started with ARKit](https://medium.com/@hilmarbirgir/getting-started-with-arkit-fd44fa4eecec)
 * [How to Create a Measuring App With ARKit](https://www.thedroidsonroids.com/blog/how-to-create-a-measuring-app-with-arkit-in-ios-11)
 * [ARKit introduction](https://www.whitesmith.co/blog/arkit-introduction/)
