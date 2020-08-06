@@ -99,7 +99,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [MarvelAR](https://github.com/hadiidbouk/MarvelAR) - MarvelAR is an iOS application that present Marvel Heroes 3D Models Using ARKit.
 * [AR-Quick-Look](https://github.com/anand2nigam/AR-Quick-Look) - Rendering any 3d model in Augmented Reality using AR-Quick-Look, recently launched by Apple to view or share your 3d model.
 * [ARInstagram](https://github.com/nativ18/ARInstagram) - Placing 2D images on walls and applying Instagram-like filters on them.
-
+* [Reality Shaders](https://github.com/mattbierner/reality-shaders-example) - Apply metal vertex and fragment shaders to real world surfaces.
 
 
 # AppStore
