@@ -17,7 +17,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 
 # Projects
 
-* [Baraba](https://github.com/nsoojin/baraba) - Make your UIScrollView scroll automatically when user is looking 👀 by tracking face using ARKit 
+* [Baraba](https://github.com/nsoojin/baraba) - Make your UIScrollView scroll automatically when user is looking 👀 by tracking face using ARKit
 * [Robust-Measurement-Tool](https://github.com/vhanagwal/ARRuler) - ARKit-based measurement tool, which has easy-to-follow and fully documented code.
 * [ARMultiuser](https://github.com/szt243660543/ARMultiuser) - This demo use arkit 2.0, realize multiplayer play together! The project refers to the official demo！
 * [ARKit2.0-Prototype](https://github.com/simformsolutions/ARKit2.0-Prototype) - Bluetoothed ARKit 2.0 with ARWorldMap
@@ -178,7 +178,7 @@ Making A Remote Control Drone](https://medium.com/journey-of-one-thousand-apps/a
 * [Official ARKit Documentation](https://developer.apple.com/documentation/arkit)
 * [Made With ARKit](http://www.madewitharkit.com)
 * [React Native Binding](https://github.com/HippoAR/react-native-arkit) - React Native binding for ARKit
-* [Udemy Course](https://www.udemy.com/arkit-beginner-to-professional/?couponCode=THXEMMANUEL) - ARKit - Beginner to Professional in Swift 4 and iOS 11
+* [y Courses](https://www.udemy.com/courses/search/?q=arkit) - ARKit courses on Udemy
 * [Adobe AIR Binding](https://github.com/tuarua/AR-ANE) - Adobe AIR Native Extension binding for ARKit
 
 # Contributing
