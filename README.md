@@ -178,7 +178,7 @@ Making A Remote Control Drone](https://medium.com/journey-of-one-thousand-apps/a
 * [Official ARKit Documentation](https://developer.apple.com/documentation/arkit)
 * [Made With ARKit](http://www.madewitharkit.com)
 * [React Native Binding](https://github.com/HippoAR/react-native-arkit) - React Native binding for ARKit
-* [y Courses](https://www.udemy.com/courses/search/?q=arkit) - ARKit courses on Udemy
+* [Udemy Courses](https://www.udemy.com/courses/search/?q=arkit) - ARKit courses on Udemy
 * [Adobe AIR Binding](https://github.com/tuarua/AR-ANE) - Adobe AIR Native Extension binding for ARKit
 
 # Contributing
