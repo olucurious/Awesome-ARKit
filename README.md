@@ -102,6 +102,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARInstagram](https://github.com/nativ18/ARInstagram) - Placing 2D images on walls and applying Instagram-like filters on them.
 * [Reality Shaders](https://github.com/mattbierner/reality-shaders-example) - Apply metal vertex and fragment shaders to real world surfaces.
 * [SCNRecorder](https://github.com/gorastudio/SCNRecorder) - Capture Video and Photo from SceneKit, ARKit and RealityKit projects at 60 fps.
+* [ARCarGuidePoC](https://github.com/eldare/ARCarGuidePoC) - Detects parts under a hood of a motor vehicle, and tracks the detected parts in AR.
 
 
 # AppStore
@@ -145,7 +146,8 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Rikskit](https://itunes.apple.com/us/app/riksroom/id1443213388?mt=8) - Multiplayer AR space. Draw, place 3D models from Google Poly, add images, add text, and play a mini-game in Riksroom.
 * [AR Search](https://itunes.apple.com/us/app/ar-search/id1460715687) - This app lets you search in your physical surroundings for any printed text and track the results in real-time, to give you the best search experience possible.
 * [In The Walls](https://apps.apple.com/us/app/id1522257130) - Uses real time face tracking and AR to put your face in any real world wall.
-* [ThingstAR](https://apps.apple.com/us/app/id1547199958) - An iPad app to explore Thingiverse using AR. You can also share AR models as usdz files.
+* [ThingstAR](https://apps.apple.com/us/app/id1547199958) - An iPad app to explore Thingiverse using AR. You can also share AR models as usdz files. 
+* [watAR](https://apps.apple.com/us/app/watar/id1546980861) - Distort any real world surface with wave and raindrop effects.
 
 # Tutorials
 
@@ -174,6 +176,7 @@ Making A Remote Control Drone](https://medium.com/journey-of-one-thousand-apps/a
 * [Building an iPhone AR Museum App in iOS 11 with Apple’s ARKit Image Recognition](https://medium.com/@codeandco/building-an-iphone-ar-museum-app-in-ios-11-with-apples-arkit-image-recognition-b07febd90a91)
 * [How to implement Apple AR-Quick-Look by Example](https://medium.com/better-programming/how-to-implement-ar-quicklook-in-your-app-18d513a13b9f)
 * [What is USDZ, Apple's 3d model format for ARKit and how to convert your existing model into usdz by Example](https://medium.com/better-programming/what-is-usdz-and-how-to-convert-your-3d-model-to-usdz-dac2e6205036)
+* [iOS&Swift AR tutorials on raywenderlich.com](https://www.raywenderlich.com/library?domain_ids%5B%5D=1&q=AR&sort_order=relevance)
 
 # Resources
 
