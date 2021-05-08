@@ -102,6 +102,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARInstagram](https://github.com/nativ18/ARInstagram) - Placing 2D images on walls and applying Instagram-like filters on them.
 * [Reality Shaders](https://github.com/mattbierner/reality-shaders-example) - Apply metal vertex and fragment shaders to real world surfaces.
 * [SCNRecorder](https://github.com/gorastudio/SCNRecorder) - Capture Video and Photo from SceneKit, ARKit and RealityKit projects at 60 fps.
+* [ARCarGuidePoC](https://github.com/eldare/ARCarGuidePoC) - Detects parts under a hood of a motor vehicle, and tracks the detected parts in AR.
 
 
 # AppStore
