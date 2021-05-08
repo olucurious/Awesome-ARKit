@@ -174,6 +174,7 @@ Making A Remote Control Drone](https://medium.com/journey-of-one-thousand-apps/a
 * [Building an iPhone AR Museum App in iOS 11 with Apple’s ARKit Image Recognition](https://medium.com/@codeandco/building-an-iphone-ar-museum-app-in-ios-11-with-apples-arkit-image-recognition-b07febd90a91)
 * [How to implement Apple AR-Quick-Look by Example](https://medium.com/better-programming/how-to-implement-ar-quicklook-in-your-app-18d513a13b9f)
 * [What is USDZ, Apple's 3d model format for ARKit and how to convert your existing model into usdz by Example](https://medium.com/better-programming/what-is-usdz-and-how-to-convert-your-3d-model-to-usdz-dac2e6205036)
+* [iOS&Swift AR tutorials on raywenderlich.com](https://www.raywenderlich.com/library?domain_ids%5B%5D=1&q=AR&sort_order=relevance)
 
 # Resources
 
