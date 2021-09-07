@@ -149,6 +149,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ThingstAR](https://apps.apple.com/us/app/id1547199958) - An iPad app to explore Thingiverse using AR. You can also share AR models as usdz files. 
 * [watAR](https://apps.apple.com/us/app/watar/id1546980861) - Distort any real world surface with wave and raindrop effects.
 * [Paint the City](https://apps.apple.com/us/app/paint-the-city/id1535585612) - Create street art in augmented reality and see it appear on the map.
+* [AR MultiPendulum](https://apps.apple.com/app/ar-multipendulum/id1583322801) - Transforms an iPhone into an affordable AR headset.
 
 # Tutorials
 
