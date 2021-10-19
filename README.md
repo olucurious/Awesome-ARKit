@@ -187,6 +187,7 @@ Making A Remote Control Drone](https://medium.com/journey-of-one-thousand-apps/a
 * [React Native Binding](https://github.com/HippoAR/react-native-arkit) - React Native binding for ARKit
 * [Udemy Courses](https://www.udemy.com/courses/search/?q=arkit) - ARKit courses on Udemy
 * [Adobe AIR Binding](https://github.com/tuarua/AR-ANE) - Adobe AIR Native Extension binding for ARKit
+* [ARHeadsetKit](https://github.com/philipturner/ARHeadsetKit) - High-level framework for experimenting with AR and replicating Microsoft Hololens. 
 
 # Contributing
 
