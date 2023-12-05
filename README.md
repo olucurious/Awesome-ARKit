@@ -146,11 +146,13 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [Rikskit](https://itunes.apple.com/us/app/riksroom/id1443213388?mt=8) - Multiplayer AR space. Draw, place 3D models from Google Poly, add images, add text, and play a mini-game in Riksroom.
 * [AR Search](https://itunes.apple.com/us/app/ar-search/id1460715687) - This app lets you search in your physical surroundings for any printed text and track the results in real-time, to give you the best search experience possible.
 * [In The Walls](https://apps.apple.com/us/app/id1522257130) - Uses real time face tracking and AR to put your face in any real world wall.
-* [ThingstAR](https://apps.apple.com/us/app/id1547199958) - An iPad app to explore Thingiverse using AR. You can also share AR models as usdz files. 
+* [ThingstAR](https://apps.apple.com/us/app/id1547199958) - An iOS app to explore Thingiverse using AR. You can also share AR models as usdz files. 
 * [watAR](https://apps.apple.com/us/app/watar/id1546980861) - Distort any real world surface with wave and raindrop effects.
 * [Paint the City](https://apps.apple.com/us/app/paint-the-city/id1535585612) - Create street art in augmented reality and see it appear on the map.
 * [AR MultiPendulum](https://apps.apple.com/app/ar-multipendulum/id1583322801) - Transforms an iPhone into an affordable AR headset.
 * [Blood cells AR](https://apps.apple.com/us/app/blood-cells-ar/id1661689851) - discover cells in augmented reality
+* [Graphite 3D](https://apps.apple.com/us/app/graphite-3d/id1523391511) - A collaborative drawing tool for modeling precise shapes in real spaces.
+
 # Tutorials
 
 * [Apple ARKit by Example](https://blog.markdaws.net/apple-arkit-by-example-ef1c8578fb59)
