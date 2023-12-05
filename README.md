@@ -150,6 +150,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [watAR](https://apps.apple.com/us/app/watar/id1546980861) - Distort any real world surface with wave and raindrop effects.
 * [Paint the City](https://apps.apple.com/us/app/paint-the-city/id1535585612) - Create street art in augmented reality and see it appear on the map.
 * [AR MultiPendulum](https://apps.apple.com/app/ar-multipendulum/id1583322801) - Transforms an iPhone into an affordable AR headset.
+* [Graphite 3D](https://apps.apple.com/us/app/graphite-3d/id1523391511) - A collaborative drawing tool for modeling precise shapes in real spaces.
 
 # Tutorials
 
