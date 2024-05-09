@@ -104,6 +104,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [SCNRecorder](https://github.com/gorastudio/SCNRecorder) - Capture Video and Photo from SceneKit, ARKit and RealityKit projects at 60 fps.
 * [ARCarGuidePoC](https://github.com/eldare/ARCarGuidePoC) - Detects parts under a hood of a motor vehicle, and tracks the detected parts in AR.
 * [Blood cells AR](https://github.com/andrelucassvt/Blood-Cells-AR) - discover cells in augmented reality(Using Ar Quick look)
+* [AR-Vector-Fields](https://github.com/SachinSAgrawal/AR-Vector-Fields) - Visualize vector fields from your calculus class in the real world with AR.
 
 # AppStore
 
