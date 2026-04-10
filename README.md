@@ -15,6 +15,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 
 - - -
 
+- [Gitstar](https://dev.gitstar.ai?utm_medium=github_readme&utm_source=awesome_list&utm_campaign=olucurious_Awesome-ARKit) - Follow developers on GitHub and get a feed of what they star and build.
 # Projects
 
 * [Baraba](https://github.com/nsoojin/baraba) - Make your UIScrollView scroll automatically when user is looking 👀 by tracking face using ARKit
