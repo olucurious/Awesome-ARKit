@@ -161,6 +161,7 @@ ARKit is a new framework that allows you to easily create unparalleled augmented
 * [ARKit introduction](https://www.whitesmith.co/blog/arkit-introduction/)
 * [Building an AR game with ARKit and Spritekit](https://blog.pusher.com/building-ar-game-arkit-spritekit/)
 * [ARKit + Vision: An intriguing combination](https://dev.to/osterbergjordan/arkit--vision-an-intriguing-combination)
+* [TutorialSearch](https://tutorialsearch.io/) - Free cross-platform search engine indexing 50,000+ tutorials from Udemy, Skillshare, Pluralsight, and other major learning platforms across 45+ categories.
 * [Using ARKit with Metal](http://metalkit.org/2017/07/29/using-arkit-with-metal.html)
 * [Augmented Reality With ARKit For IOS](https://digitalleaves.com/blog/2017/08/augmented-reality-arkit/)
 * [Bike ride with ARKit: How I built it](https://blog.mapbox.com/bike-ride-with-arkit-mapbox-unity-9a66f91d91b2)
