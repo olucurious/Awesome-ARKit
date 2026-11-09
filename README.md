@@ -194,3 +194,4 @@ Making A Remote Control Drone](https://medium.com/journey-of-one-thousand-apps/a
 # Contributing
 
 Your contributions are always welcome! To add, remove, or change things on the list: Submit a pull request. See `contribution.md` for guidelines.
+- [Needle](https://github.com/Yvsleyen00941/Needle) - Open source native Swift companion for macOS.
